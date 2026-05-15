@@ -1,0 +1,8 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "prefix": "budget",
+  "description": "Budget envelope visualizer with visual progress bars",
+  "entry": "dotnet run --project BudgetExtension.csproj",
+  "minProtocolVersion": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\bin\Debug\net9.0\BudgetExtension.exe
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\bin\Debug\net9.0\BudgetExtension.deps.json
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\bin\Debug\net9.0\BudgetExtension.runtimeconfig.json
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\bin\Debug\net9.0\BudgetExtension.dll
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\bin\Debug\net9.0\BudgetExtension.pdb
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.AssemblyInfoInputs.cache
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.AssemblyInfo.cs
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.csproj.CoreCompileInputs.cache
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.dll
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\refint\BudgetExtension.dll
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.pdb
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\BudgetExtension.genruntimeconfig.cache
+C:\Users\cemhe\AppData\Local\Temp\quicksheet-budget\obj\Debug\net9.0\ref\BudgetExtension.dll
