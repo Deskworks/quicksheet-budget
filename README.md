@@ -6,7 +6,7 @@ Budget envelope visualizer for [QuickSheet](https://github.com/cemheren/QuickShe
 
 In any QuickSheet cell:
 ```
-ext: github:cemheren/quicksheet-budget
+ext: github:Deskworks/quicksheet-budget
 ```
 
 ## Usage
